@@ -22,5 +22,5 @@ Conference Paper #1: Design Automation Conference (DAC)
 
 Conference Paper #2: Design Automation Conference (DAC)
 
-Conference Paper #3: ISCAS 20221
+Conference Paper #3: International Symposium on Circuits and Systems (ISCAS)
 
