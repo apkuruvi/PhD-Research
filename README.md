@@ -11,9 +11,14 @@ Publications:
 
 
 Currently Under Review:
+
 Journal #1: IEEE Transactions on Information Forensics and Security (TIFS)
+
 Journal #2: International Journal of Electrical Power & Energy Systems (IJEPES)
+
 Conference Paper #1: Design Automation Conference (DAC)
+
 Conference Paper #2: Design Automation Conference (DAC)
+
 Conference Paper #3: ISCAS 20221
 
