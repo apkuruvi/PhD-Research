@@ -10,6 +10,8 @@ Publications:
 5. YugPratap Singh, Abraham Peedikayil Kuruvila, and Kanad Basu. Hardware-assisted Detection of Malware in Automotive-Based Systems. At IEEE Design, Automation, and Test in Europe (DATE) 2021. 
 
 
+
+
 Currently Under Review:
 
 Journal #1: IEEE Transactions on Information Forensics and Security (TIFS)
