@@ -2,7 +2,7 @@
 
 Due to contractual limitations, I am only able to provide source code of my research until after it has been accepted and published. 
 
-Publications:
+Accepted Works:
 1.	Abraham Peedikayil Kuruvila, Shamik Kundu, and Kanad Basu. Defending Hardware-based Malware Detectors against Adversarial Attacks. At IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2020.
 2.	Abraham Kuruvila, Shamik Kundu, and Kanad Basu. Analyzing the Efficiency of Machine Learning Classifiers in Hardware-based Malware Detectors. At IEEE Computer Society Annual Symposium on VLSI (ISVLSI), 2020.
 3. Abraham Peedikayil Kuruvila, Ayush Arunachalam, and Kanad Basu. Benefits and Challenges of Utilizing Hardware Performance Counters for COPPA Violation Detection. At IEEE International Conference on Physical Assurance and Inspection of Electronics (PAINE), 2020.
